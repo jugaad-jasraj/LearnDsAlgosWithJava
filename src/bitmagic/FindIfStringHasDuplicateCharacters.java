@@ -1,3 +1,5 @@
+package bitmagic;
+
 public class FindIfStringHasDuplicateCharacters {
 
     /*

@@ -1,3 +1,5 @@
+package bitmagic;
+
 /*
 This class aims to print a given Integer in it's binary form without using Integer.toBinaryString() function.
  */
